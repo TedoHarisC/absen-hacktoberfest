@@ -9,3 +9,8 @@ Git Hero
 <br> GitRepo
 <br> Nyari kaos 1 lusin
 
+
+### Tedo Haris Chandra
+Mahasiswa
+<br> Polines
+<br> Belajar Git
